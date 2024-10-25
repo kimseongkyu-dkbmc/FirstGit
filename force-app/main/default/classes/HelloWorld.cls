@@ -2,4 +2,4 @@ public with sharing class HelloWorld {
     public HelloWorld() {
         System.debug('Clone Test');
     }
-}git 
+}
